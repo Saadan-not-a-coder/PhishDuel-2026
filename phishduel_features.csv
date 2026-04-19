@@ -1,0 +1,6 @@
+Round,Target,Generated_URL,Length,Hyphen_Count,Shannon_Entropy,Semantic_Score,Levenshtein_Dist,Is_Phishing
+1,paypal,https://www.p4yp4ll.com/secure-login.html,41,1,4.2411023092322955,2,37,1
+2,paypal,https://www.pypal-srvr.com/activat-account/,43,2,4.097906255195964,1,38,1
+3,paypal,https://www.paypallyourwalletsecureaccount.com,46,0,4.023136955868885,3,40,1
+4,paypal,https://www.paypal-secure-authnet.com/payments/process/confirm-order,68,3,4.255440379703797,4,62,1
+5,paypal,https://www.paiyllo-servicemaster.com,37,1,4.154870932962629,0,33,1
